@@ -17,7 +17,7 @@ require (
 	github.com/dinever/golf v0.3.0
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/fasthttp/router v1.4.1
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-chi/chi/v5 v5.0.3
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
 	github.com/go-ozzo/ozzo-routing v2.1.4+incompatible
