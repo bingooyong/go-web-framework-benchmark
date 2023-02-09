@@ -15,7 +15,7 @@ require (
 	github.com/codegangsta/inject v0.0.0-20150114235600-33e0aa1cb7c0 // indirect
 	github.com/dimfeld/httptreemux v5.0.1+incompatible
 	github.com/dinever/golf v0.3.0
-	github.com/emicklei/go-restful v2.15.0+incompatible
+	github.com/emicklei/go-restful v2.16.0+incompatible
 	github.com/fasthttp/router v1.4.1
 	github.com/gin-gonic/gin v1.7.1
 	github.com/go-chi/chi/v5 v5.0.3
