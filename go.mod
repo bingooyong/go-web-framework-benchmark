@@ -57,13 +57,13 @@ require (
 	github.com/teambition/gear v1.24.0
 	github.com/tockins/fresh v0.0.0-20181012144221-d8b891ad12e4
 	github.com/urfave/negroni v1.0.0
-	github.com/valyala/fasthttp v1.28.0
+	github.com/valyala/fasthttp v1.34.0
 	github.com/vanng822/r2router v0.0.0-20150523112421-1023140a4f30
 	github.com/vardius/gorouter/v4 v4.5.1
 	github.com/vmihailenco/treemux v0.6.1
 	go101.org/tinyrouter v1.0.1
 	goji.io v2.0.2+incompatible
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed
+	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 	gopkg.in/baa.v1 v1.2.32
 	gopkg.in/celrenheit/lion.v1 v1.0.0-20161101201550-7c6ce5d22d64
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
