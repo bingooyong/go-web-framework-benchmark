@@ -17,7 +17,7 @@ require (
 	github.com/dinever/golf v0.3.0
 	github.com/emicklei/go-restful v2.15.0+incompatible
 	github.com/fasthttp/router v1.4.1
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-chi/chi/v5 v5.0.3
 	github.com/go-martini/martini v0.0.0-20170121215854-22fa46961aab
 	github.com/go-ozzo/ozzo-routing v2.1.4+incompatible
@@ -56,6 +56,7 @@ require (
 	github.com/savsgio/gotils v0.0.0-20210617111740-97865ed5a873
 	github.com/teambition/gear v1.24.0
 	github.com/tockins/fresh v0.0.0-20181012144221-d8b891ad12e4
+	github.com/ugorji/go v1.1.7 // indirect
 	github.com/urfave/negroni v1.0.0
 	github.com/valyala/fasthttp v1.28.0
 	github.com/vanng822/r2router v0.0.0-20150523112421-1023140a4f30
@@ -63,7 +64,7 @@ require (
 	github.com/vmihailenco/treemux v0.6.1
 	go101.org/tinyrouter v1.0.1
 	goji.io v2.0.2+incompatible
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed
+	golang.org/x/net v0.7.0
 	gopkg.in/baa.v1 v1.2.32
 	gopkg.in/celrenheit/lion.v1 v1.0.0-20161101201550-7c6ce5d22d64
 	gopkg.in/go-playground/assert.v1 v1.2.1 // indirect
